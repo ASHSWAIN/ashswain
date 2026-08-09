@@ -1,47 +1,45 @@
 # Hi, I'm Ashish 👋
 
-I'm a Computer Science graduate based in London, currently building practical skills across business analysis, product, data and software testing.
+Computer Science graduate based in London with an interest in business analysis, product development and technology.
 
-### What I'm working on
+## About
 
-- Business and requirements analysis
-- SQL and data analysis
-- Agile and Scrum
-- Software testing and QA
-- Python and Pandas
-- Power BI
-- Product management fundamentals
-- AI and AI-enabled products
+I have a background in Computer Science and experience working in operational environments. I'm currently developing practical skills in business analysis, software testing, data analysis and product management.
 
-### Projects
+My current focus is on applying these skills through practical projects and building a stronger understanding of how technology products are planned, developed and improved.
 
-I'm currently developing and documenting projects as part of my reskilling journey.
+## Skills
 
-- Hostel Management System
-- Data Analysis Project
-- Software Testing / QA Project
-- AI Product Project
-
-### Tools & Technologies
-
-**Languages:** Python, SQL, C
+**Programming:** Python, SQL, C
 
 **Data:** Excel, Pandas, Power BI
 
-**Product & Delivery:** Agile, Scrum, Jira
+**Product & Business Analysis:** Agile, Scrum, Requirements Analysis, User Stories, Product Documentation
 
-**Testing & APIs:** Manual Testing, REST APIs, Postman
+**Testing & Technical:** Manual Testing, REST APIs, Postman, Jira
 
-**Currently learning:** AI products, RAG, AI agents and AI evaluation
+## Projects
 
-### Background
+### Hostel Management System
+A software project focused on managing hostel accommodation, users and related operations.
 
- MSc Computer Science — University of Greenwich
+### Data Analysis Project
+Data analysis and visualisation using Python, Pandas, SQL and related tools.
 
- Current experience in community and leisure operations
+### Software Testing Project
+Practical testing exercises covering test cases, defect reporting and API testing.
 
- London, United Kingdom
+### AI Product Project
+A product-focused project exploring the use of AI in a practical business application.
+
+## Education
+
+**MSc Computer Science**  
+University of Greenwich, London
+
+**BSc Computer Science**  
+Indira College of Commerce and Science, Pune
 
 ---
 
-I'm using this profile to document what I'm learning, the projects I'm building, and the practical skills I'm developing.
+Currently building and documenting projects as I develop my skills across technology, business analysis and product.
