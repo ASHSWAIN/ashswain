@@ -17,10 +17,10 @@ I'm a Computer Science graduate based in London, currently building practical sk
 
 I'm currently developing and documenting projects as part of my reskilling journey.
 
-- 🏠 Hostel Management System
-- 📊 Data Analysis Project
-- 🧪 Software Testing / QA Project
-- 🤖 AI Product Project
+- Hostel Management System
+- Data Analysis Project
+- Software Testing / QA Project
+- AI Product Project
 
 ### Tools & Technologies
 
@@ -36,11 +36,11 @@ I'm currently developing and documenting projects as part of my reskilling journ
 
 ### Background
 
-🎓 MSc Computer Science — University of Greenwich
+ MSc Computer Science — University of Greenwich
 
-💼 Current experience in community and leisure operations
+ Current experience in community and leisure operations
 
-📍 London, United Kingdom
+ London, United Kingdom
 
 ---
 
