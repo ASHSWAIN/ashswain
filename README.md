@@ -20,26 +20,18 @@ My focus is on applying these skills through practical projects and developing a
 
 ## Projects
 
-### Hope and Paradise
-A web-based project developed to support [briefly describe what it does].
+### Hope & Paradise
+Java web application developed to help people experiencing homelessness find and access support services including accommodation, food, healthcare and employment support.
 
-**Technologies:** [we'll confirm these from your repository]
+The application includes user authentication, service submission and management, approval workflows, and different user roles.
 
-### Hostel Management System
-A software project focused on managing hostel accommodation, users and related operations.
+**Technologies:** Java, Java Servlets, JSP, SQL
 
-**Technologies:** [we'll confirm these]
+[View project](https://github.com/ASHSWAIN/HopeAndParadise)
 
-### Data Analysis
-Data analysis and visualisation using Python, Pandas and SQL.
+### Currently Working On
 
-**Status:** Currently developing
-
-### Software Testing
-Practical testing work covering test cases, defect reporting and API testing.
-
-**Status:** Currently developing
-## Education
+I'm currently developing projects in business analysis, data analysis and software testing as I build my practical experience in these areas.
 
 **MSc Computer Science**  
 University of Greenwich, London
