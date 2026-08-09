@@ -18,24 +18,27 @@ My focus is on applying these skills through practical projects and developing a
 
 **Testing & Technical:** Manual Testing, REST APIs, Postman, Jira
 
-## Projects & Work in Progress
+## Projects
+
+### Hope and Paradise
+A web-based project developed to support [briefly describe what it does].
+
+**Technologies:** [we'll confirm these from your repository]
 
 ### Hostel Management System
-
 A software project focused on managing hostel accommodation, users and related operations.
 
-### Data Analysis
+**Technologies:** [we'll confirm these]
 
+### Data Analysis
 Data analysis and visualisation using Python, Pandas and SQL.
 
-### Software Testing
+**Status:** Currently developing
 
+### Software Testing
 Practical testing work covering test cases, defect reporting and API testing.
 
-### AI Product
-
-A product-focused project exploring the use of AI in a practical business application.
-
+**Status:** Currently developing
 ## Education
 
 **MSc Computer Science**  
